@@ -10,6 +10,16 @@
       "link_url": null,
       "avatar_url": null,
       "bio": "A test bio."
+    },
+    {
+      "github_username": "glitteribbon",
+      "alumnus": true,
+      "show_on_website": true,
+      "name": "Giuliana Bonotti",
+      "link_text": null,
+      "link_url": null,
+      "avatar_url": null,
+      "bio": "I program a lot. I'm kind of boring."
     }
   ]
 }
